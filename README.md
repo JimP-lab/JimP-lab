@@ -15,16 +15,6 @@ I'm a Versatile Web & AI Automation Specialist with hands-on experience across f
 - **Tools & Infrastructure:** Git / GitHub, Firebase CLI, Netlify, WordPress, Joomla, Formspark, Microsoft Excel
 - **Technical Operations & AdOps:** Technical Support, Systems Troubleshooting, API Integration (Facebook Graph API, Meta Business Manager), Google Ad Manager, Campaign Execution
 
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![JimP-lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimP-lab&show_icons=true&theme=radical)
-
-</div>
-
-
 ## 🔗 Connect with Me
 
 <div align="center">
