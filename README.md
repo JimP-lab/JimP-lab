@@ -1,6 +1,6 @@
 # Hi there, I'm JimP-lab 👋
 
-I'm a Versatile Web & AI Automation Specialist with hands-on experience across full-stack development, workflow automation, and technical support. Experienced in building web applications using PHP, JavaScript, and MySQL, while executing technical troubleshooting and API maintenance to rapidly diagnose system failures. Skilled in engineering AI-powered workflows using Zapier and Make to optimize multi-site operations and eliminate operational bottlenecks.
+I'm a Web & AI Automation Developer with hands-on experience across full-stack development, workflow automation, and technical support. Experienced in building web applications using PHP, JavaScript, and MySQL, while executing technical troubleshooting and API maintenance to rapidly diagnose system failures. Skilled in engineering AI-powered workflows using Zapier and Make to optimize multi-site operations and eliminate operational bottlenecks.
  
 ## 🚀 About Me
 - 👨‍💻 I'm currently researching and working on projects focused on AI automation, while exploring web projects and app ideas in MVP version
@@ -12,7 +12,7 @@ I'm a Versatile Web & AI Automation Specialist with hands-on experience across f
 - **Back-End Development:** Node.js, PHP, CodeIgniter 3, MVC Architecture, PHPMailer, Nodemailer, Email.js
 - **Front-End Development:** JavaScript, React, Tailwind CSS, HTML / CSS, Bootstrap, jQuery
 - **Databases & Cloud Services:** MySQL, Supabase, Firebase, phpMyAdmin
-- **Tools & Infrastructure:** Git / GitHub, Firebase CLI, Netlify, WordPress, Joomla, Formspark, Microsoft Excel
+- **Tools & Infrastructure:** Git / GitHub, Firebase CLI, Hostinger, WordPress, Joomla, Formspark, Microsoft Excel
 - **Technical Operations & AdOps:** Technical Support, Systems Troubleshooting, API Integration (Facebook Graph API, Meta Business Manager), Google Ad Manager, Campaign Execution
 
 ## 🔗 Connect with Me
